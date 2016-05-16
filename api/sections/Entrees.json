@@ -1,0 +1,21 @@
+{
+  "name": "Entrees",
+  "items": [
+    {
+      "name": "Nachos",
+      "price": 10
+    },
+    {
+      "name": "Corn Fritters",
+      "price": 12
+    },
+    {
+      "name": "Toasted Bagel",
+      "price": 8
+    },
+    {
+      "name": "Gormet Sandwhich",
+      "price": 9
+    }
+  ]
+}

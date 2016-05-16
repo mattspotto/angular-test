@@ -1,0 +1,25 @@
+<div class="content-margin">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="well">
+                <ul class="nav nav-list">
+                    <li ng-repeat="section in sections">
+                        <a ng-class="{'active-section': section==active}" ng-click="getItems(section)">{{ section }}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="item in items">
+                    <span class="price-span">
+                        ${{ item.price }}
+                    </span> 
+                    <span class="menu-item">
+                        {{ item.name }}
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,5 +1,11 @@
 /* app css stylesheet */
 
+/* Bootstrap fix */
+.nav, 
+.pagination, 
+.carousel, 
+.panel-title a { cursor: pointer; }
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
@@ -27,4 +33,21 @@
 .menu > li:nth-child(1):before {
   content: "";
   padding: 0;
+}
+
+.content-margin {
+    margin: 12px;
+}
+
+.price-span {
+    margin-right: 6px;
+    display: inline-block;
+    width: 28px;
+}
+.menu-item {
+    font-weight: 200;
+}
+.active-section {
+    background: rgba(0,0,0,0.1);
+    border-radius: 4px;
 }

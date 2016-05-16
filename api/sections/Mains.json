@@ -1,0 +1,25 @@
+{
+  "name": "Mains",
+  "items": [
+    {
+      "name": "Lentil Burger with Chips",
+      "price": 14
+    },
+    {
+      "name": "Pumpkin and Spinach Lasagne",
+      "price": 16
+    },
+    {
+      "name": "4 Cheese Pizza",
+      "price": 13
+    },
+    {
+      "name": "Cream of Vegetable Homemade Pie",
+      "price": 10
+    },
+    {
+      "name": "Superfood Pasta (Spaghetti)",
+      "price": 15
+    }
+  ]
+}

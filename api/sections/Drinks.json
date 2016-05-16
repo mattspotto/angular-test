@@ -1,0 +1,29 @@
+{
+  "name": "Drinks",
+  "items": [
+    {
+      "name": "Sparkling Water",
+      "price": 4
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "price": 5
+    },
+    {
+      "name": "English Breakfast Tea",
+      "price": 3
+    },
+    {
+      "name": "Peppermint Tea",
+      "price": 3
+    },
+    {
+      "name": "Coffee",
+      "price": 4
+    },
+    {
+      "name": "Chai Latte",
+      "price": 4
+    }
+  ]
+}

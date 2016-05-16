@@ -1,0 +1,17 @@
+{
+  "name": "Sides",
+  "items": [
+    {
+      "name": "Chips",
+      "price": 5
+    },
+    {
+      "name": "Onion Rings",
+      "price": 7
+    },
+    {
+      "name": "Salad",
+      "price": 5
+    }
+  ]
+}
